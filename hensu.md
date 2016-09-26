@@ -1,5 +1,11 @@
 #<ruby><rb>第<rb><rt>だい</rt></ruby><ruby><rb>４<rb><rt>よん</rt></ruby><ruby><rb>章<rb><rt>しょう</rt></ruby>：「<ruby><rb>変数<rb><rt>へんすう</rt></ruby>」ってなんだろう？
-<p>この<ruby><rb>章<rb><rt>しょう</rt></ruby>では<ruby><rb>次<rb><rt>つぎ</rt></ruby>のような<ruby><rb>事<rb><rt>こと</rt></ruby>が<ruby><rb>学<rb><rt>まな</rt></ruby>べるよ。</p>-<ruby><rb>変数<rb><rt>へんすう</rt></ruby>とは<ruby><rb>何<rb><rt>なに</rt></ruby>か<ruby><rb>身近<rb><rt>みぢか</rt></ruby>なたとえを<ruby><rb>用<rb><rt>もち</rt></ruby>いて<ruby><rb>お話<rb><rt>おはな</rt></ruby>しします。-なぜ<ruby><rb>変数<rb><rt>へんすう</rt></ruby>というものが<ruby><rb>必要<rb><rt>ひつよう</rt></ruby>なのか<ruby><rb>分<rb><rt>わ</rt></ruby>かるようになります。-<ruby><rb>変数<rb><rt>へんすう</rt></ruby>を<ruby><rb>使<rb><rt>つか</rt></ruby>って<ruby><rb>計算<rb><rt>けいさん</rt></ruby>をする<ruby><rb>プログラム<rb><rt>ぷろぐらむ</rt></ruby>がかけるようになります。
+<p>この<ruby><rb>章<rb><rt>しょう</rt></ruby>では<ruby><rb>次<rb><rt>つぎ</rt></ruby>のような<ruby><rb>事<rb><rt>こと</rt></ruby>が<ruby><rb>学<rb><rt>まな</rt></ruby>べるよ。</p>
+
+-<ruby><rb>変数<rb><rt>へんすう</rt></ruby>とは<ruby><rb>何<rb><rt>なに</rt></ruby>か<ruby><rb>身近<rb><rt>みぢか</rt></ruby>なたとえを<ruby><rb>用<rb><rt>もち</rt></ruby>いて<ruby><rb>お話<rb><rt>おはな</rt></ruby>しします。 
+
+-なぜ<ruby><rb>変数<rb><rt>へんすう</rt></ruby>というものが<ruby><rb>必要<rb><rt>ひつよう</rt></ruby>なのか<ruby><rb>分<rb><rt>わ</rt></ruby>かるようになります。  
+
+-<ruby><rb>変数<rb><rt>へんすう</rt></ruby>を<ruby><rb>使<rb><rt>つか</rt></ruby>って<ruby><rb>計算<rb><rt>けいさん</rt></ruby>をする<ruby><rb>プログラム<rb><rt>ぷろぐらむ</rt></ruby>がかけるようになります。
 
 ##まずは<ruby><rb>イメージ<rb><rt>いめーじ</rt></ruby>をつかんでみよう！
 
