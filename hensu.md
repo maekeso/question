@@ -6,7 +6,9 @@
 
 -<ruby><rb>変数<rb><rt>へんすう</rt></ruby>とは<ruby><rb>何<rb><rt>なに</rt></ruby>か<ruby><rb>身近<rb><rt>みぢか</rt></ruby>なたとえを<ruby><rb>用<rb><rt>もち</rt></ruby>いて<ruby><rb>お話<rb><rt>おはな</rt></ruby>しします。  
 -なぜ<ruby><rb>変数<rb><rt>へんすう</rt></ruby>というものが<ruby><rb>必要<rb><rt>ひつよう</rt></ruby>なのか<ruby><rb>分<rb><rt>わ</rt></ruby>かるようになります。  
--<ruby><rb>変数<rb><rt>へんすう</rt></ruby>を<ruby><rb>使<rb><rt>つか</rt></ruby>って<ruby><rb>計算<rb><rt>けいさん</rt></ruby>をするプログラムがかけるようになります。##まずはイメージをつかんでみよう！
+-<ruby><rb>変数<rb><rt>へんすう</rt></ruby>を<ruby><rb>使<rb><rt>つか</rt></ruby>って<ruby><rb>計算<rb><rt>けいさん</rt></ruby>をするプログラムがかけるようになります。
+
+##まずはイメージをつかんでみよう！
 
 
 <ruby><rb>例<rb><rt>れい</rt></ruby>：
