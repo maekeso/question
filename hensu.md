@@ -127,7 +127,7 @@ printについては<ruby><rb>第<rb><rt>だい</rt></ruby>２<ruby><rb>章<rb><
 
 コードの<ruby><rb>書き方<rb><rt>かきかた</rt></ruby>はこんなながれになるよ。  
 つぎはみんなでここに<ruby><rb>全部<rb><rt>ぜんぶ</rt></ruby>まとまったコードを<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう！
-<textarea>
+<textarea rows="4" cols="40">
 </textarea>
 
 4と<ruby><rb>表示<rb><rt>ひょうじ</rt></ruby>されていれば<ruby><rb>正<rb><rt>ただ</rt></ruby>しくプログラムが<ruby><rb>書<rb><rt>か</rt></ruby>けているよ。
@@ -148,7 +148,7 @@ printについては<ruby><rb>第<rb><rt>だい</rt></ruby>２<ruby><rb>章<rb><
 ## <ruby><rb>練習<rb><rt>れんしゅう</rt></ruby><ruby><rb>問題<rb><rt>もんだい</rt></ruby>：<ruby><rb>実際<rb><rt>じっさい</rt></ruby>に<ruby><rb>自分<rb><rt>じぶん</rt></ruby>で<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう!
 #### <ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
 <ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanに３、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>ringoに２を<ruby><rb>代入<rb><rt>だいにゅう</rt></ruby>して、mikanとringoを<ruby><rb>足し算<rb><rt>たしざん</rt></ruby>してその<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>出力<rb><rt>しゅつりょく</rt></ruby>してください。
-<textarea>
+<textarea rows="4" cols="40">
 </textarea>
 
 #### <ruby><rb>解答<rb><rt>かいとう</rt></ruby>:
@@ -158,7 +158,7 @@ printmikan+ringo
 
 ####<ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
 <ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanに10、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>ringoに20を<ruby><rb>代入<rb><rt>だいにゅう</rt></ruby>して、mikanとringoを<ruby><rb>足し算<rb><rt>たしざん</rt></ruby>してその<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>出力<rb><rt>しゅつりょく</rt></ruby>してください。
-<textarea>
+<textarea rows="4" cols="40">
 </textarea>
 
 #### <ruby><rb>解答<rb><rt>かいとう</rt></ruby>:
@@ -168,7 +168,7 @@ printmikan+ringo
 
 #### <ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
 <ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanに10、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>ringoに20を<ruby><rb>代入<rb><rt>だいにゅう</rt></ruby>して、mikanとringoを<ruby><rb>かけ算<rb><rt>かけざん</rt></ruby>してその<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>出力<rb><rt>しゅつりょく</rt></ruby>してください。
-<textarea>
+<textarea rows="4" cols="40">
 </textarea>
 
 #### <ruby><rb>解答<rb><rt>かいとう</rt></ruby>:
