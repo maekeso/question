@@ -1,4 +1,4 @@
-# <ruby><rb>第<rb><rt>だい</rt></ruby>４<ruby><rb>章<rb><rt>しょう</rt></ruby>：「<ruby><rb>変数<rb><rt>へんすう</rt></ruby>」ってなんだろう？
+#<ruby><rb>第<rb><rt>だい</rt></ruby>４<ruby><rb>章<rb><rt>しょう</rt></ruby>：「<ruby><rb>変数<rb><rt>へんすう</rt></ruby>」ってなんだろう？
 
 この<ruby><rb>章<rb><rt>しょう</rt></ruby>で<ruby><rb>学<rb><rt>まな</rt></ruby>べることは...
 
@@ -9,8 +9,8 @@
 ・<ruby><rb>変数<rb><rt>へんすう</rt></ruby>を<ruby><rb>使<rb><rt>つか</rt></ruby>って<ruby><rb>計算<rb><rt>けいさん</rt></ruby>をするプログラムが<ruby><rb>書<rb><rt>か</rt></ruby>けるようになります。
 
 
-## まずはイメージをつかんでみよう！
-#### <ruby><rb>例題<rb><rt>れいだい</rt></ruby>
+##まずはイメージをつかんでみよう！
+####<ruby><rb>例題<rb><rt>れいだい</rt></ruby>
 <ruby><rb>太郎<rb><rt>たろう</rt></ruby><ruby><rb>君<rb><rt>くん</rt></ruby>はみかんとりんごを<ruby><rb>友達<rb><rt>ともだち</rt></ruby>からもらったので、<ruby><rb>箱<rb><rt>はこ</rt></ruby>を<ruby><rb>２<rb><rt>ふた</rt></ruby>つ<ruby><rb>用意<rb><rt>ようい</rt></ruby>しました。
 
 もらったみかんとりんごを<ruby><rb>全部<rb><rt>ぜんぶ</rt></ruby><ruby><rb>手<rb><rt>て</rt></ruby>に<ruby><rb>持<rb><rt>も</rt></ruby>つのは<ruby><rb>大変<rb><rt>たいへん</rt></ruby>なので、
@@ -28,10 +28,10 @@
 みかんの<ruby><rb>箱<rb><rt>はこ</rt></ruby>のみかんとりんごの<ruby><rb>箱<rb><rt>はこ</rt></ruby>のりんごを<ruby><rb>全部<rb><rt>ぜんぶ</rt></ruby>あわせると
 <ruby><rb>今<rb><rt>こん</rt></ruby><ruby><rb>現在<rb><rt>げんざい</rt></ruby>、<ruby><rb>合計<rb><rt>ごうけい</rt></ruby>何<ruby><rb>個<rb><rt>こ</rt></ruby>でしょうか？
 
-#### <ruby><rb>答<rb><rt>こた</rt></ruby>え：４<ruby><rb>個<rb><rt>こ</rt></ruby>
+####<ruby><rb>答<rb><rt>こた</rt></ruby>え：４<ruby><rb>個<rb><rt>こ</rt></ruby>
 
 
-### <ruby><rb>変数<rb><rt>へんすう</rt></ruby>について<ruby><rb>上<rb><rt>うえ</rt></ruby>の<ruby><rb>例<rb><rt>れい</rt></ruby>で<ruby><rb>考<rb><rt>かんが</rt></ruby>えてみよう!
+###<ruby><rb>変数<rb><rt>へんすう</rt></ruby>について<ruby><rb>上<rb><rt>うえ</rt></ruby>の<ruby><rb>例<rb><rt>れい</rt></ruby>で<ruby><rb>考<rb><rt>かんが</rt></ruby>えてみよう!
 この<ruby><rb>例<rb><rt>れい</rt></ruby>について、プログラミングとどう<ruby><rb>関連<rb><rt>かんれん</rt></ruby>するか<ruby><rb>見<rb><rt>み</rt></ruby>ていこう！
 
 <ruby><rb>最初<rb><rt>さいしょ</rt></ruby>はみかんの<ruby><rb>箱<rb><rt>はこ</rt></ruby>には３<ruby><rb>個<rb><rt>こ</rt></ruby>、りんごの<ruby><rb>箱<rb><rt>はこ</rt></ruby>には２<ruby><rb>個<rb><rt>こ</rt></ruby><ruby><rb>入<rb><rt>はい</rt></ruby>っているね。<br/>
@@ -46,10 +46,10 @@
 
 だから、「みかんはX<ruby><rb>個<rb><rt>こ</rt></ruby>あるよ」という”<ruby><rb>数字<rb><rt>すうじ</rt></ruby>”を<ruby><rb>変数<rb><rt>へんすう</rt></ruby>に<ruby><rb>入<rb><rt>い</rt></ruby>れるんだ。
 
-<ruby><rb>箱<rb><rt>はこ</rt></ruby>の<ruby><rb>名前<rb><rt>なまえ</rt></ruby>はわたしたちが<ruby><rb>好<rb><rt>す</rt></ruby>きな<ruby><rb>名前<rb><rt>なまえ</rt></ruby>に<ruby><rb>決<rb><rt>き</rt></ruby>めることができるよ。  
+<ruby><rb>箱<rb><rt>はこ</rt></ruby>の<ruby><rb>名前<rb><rt>なまえ</rt></ruby>はわたしたちが<ruby><rb>好<rb><rt>す</rt></ruby>きな<ruby><rb>名前<rb><rt>なまえ</rt></ruby>に<ruby><rb>決<rb><rt>き</rt></ruby>めることができるよ。
 <ruby><rb>今回<rb><rt>こんかい</rt></ruby>は、「みかん」「りんご」という<ruby><rb>箱<rb><rt>はこ</rt></ruby>にしてみよう。
 
-みかんの<ruby><rb>箱<rb><rt>はこ</rt></ruby>にみかんを<ruby><rb>３<rb><rt>みっ</rt></ruby>つ<ruby><rb>入<rb><rt>い</rt></ruby>れる<ruby><rb>式<rb><rt>しき</rt></ruby>はプログラングでは  
+みかんの<ruby><rb>箱<rb><rt>はこ</rt></ruby>にみかんを<ruby><rb>３<rb><rt>みっ</rt></ruby>つ<ruby><rb>入<rb><rt>い</rt></ruby>れる<ruby><rb>式<rb><rt>しき</rt></ruby>はプログラングでは
 ”みかん＝３”
 となるんだ。</p>
 
@@ -68,7 +68,8 @@
 
 ![１](./img/5.png)
 
-みかんを<ruby><rb>食<rb><rt>た</rt></ruby>べると<ruby><rb>箱<rb><rt>はこ</rt></ruby>からみかんが<ruby><rb>減<rb><rt>へ</rt></ruby>るように、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>の<ruby><rb>中身<rb><rt>なかみ</rt></ruby>も<ruby><rb>変<rb><rt>か</rt></ruby>わっていくんだ。
+みかんを<ruby><rb>食<rb><rt>た</rt></ruby>べると<ruby><rb>箱<rb><rt>はこ</rt></ruby>からみかんが<ruby><rb>減<rb><rt>へ</rt></ruby>るように、  
+<ruby><rb>変数<rb><rt>へんすう</rt></ruby>の<ruby><rb>中身<rb><rt>なかみ</rt></ruby>も<ruby><rb>変<rb><rt>か</rt></ruby>わっていくんだ。
 
 さっきみたいに、みかんの<ruby><rb>箱<rb><rt>はこ</rt></ruby>からみかんが１<ruby><rb>個<rb><rt>こ</rt></ruby><ruby><rb>減<rb><rt>へ</rt></ruby>ったときは、<br/>
 プログラミングでは、<br/>
@@ -77,15 +78,14 @@
 
 ![１](./img/6.png)
 
-これをすると、”<ruby><rb>変数<rb><rt>へんすう</rt></ruby>「みかん」-１”  
-すなわち”３－１”の<ruby><rb>結果<rb><rt>けっか</rt></ruby>の
+これをすると、”<ruby><rb>変数<rb><rt>へんすう</rt></ruby>「みかん」-１”すなわち”３－１”の<ruby><rb>結果<rb><rt>けっか</rt></ruby>の<br/>
 “２”が<ruby><rb>新<rb><rt>あたら</rt></ruby>しい<ruby><rb>変数<rb><rt>へんすう</rt></ruby>「みかん」の<ruby><rb>中身<rb><rt>なかみ</rt></ruby>になるね。
 
 <ruby><rb>最後<rb><rt>さいご</rt></ruby>に<ruby><rb>箱<rb><rt>はこ</rt></ruby>の<ruby><rb>中身<rb><rt>なかみ</rt></ruby>を<ruby><rb>足し算<rb><rt>たしざん</rt></ruby>してみよう！
 
 みんなが<ruby><rb>実際<rb><rt>じっさい</rt></ruby>に<ruby><rb>数<rb><rt>かず</rt></ruby>を<ruby><rb>数<rb><rt>かぞ</rt></ruby>える<ruby><rb>時<rb><rt>とき</rt></ruby>は、<br/>
 “（みかんの<ruby><rb>箱<rb><rt>はこ</rt></ruby>の）２<ruby><rb>個<rb><rt>こ</rt></ruby><ruby><rb>＋<rb><rt>たす</rt></ruby>（リンゴの<ruby><rb>箱<rb><rt>はこ</rt></ruby>の）２<ruby><rb>個<rb><rt>こ</rt></ruby>”
-というように  <ruby><rb>数字<rb><rt>すうじ</rt></ruby>で<ruby><rb>計算<rb><rt>けいさん</rt></ruby>するよね。
+というように<ruby><rb>数字<rb><rt>すうじ</rt></ruby>で<ruby><rb>計算<rb><rt>けいさん</rt></ruby>するよね。
 
 ![１](./img/8.png)
 
@@ -103,34 +103,30 @@
 <ruby><rb>今<rb><rt>いま</rt></ruby>の<ruby><rb>例<rb><rt>れい</rt></ruby>を<ruby><rb>実際<rb><rt>じっさい</rt></ruby>にプログラミングを<ruby><rb>使<rb><rt>つか</rt></ruby>って<ruby><rb>自分<rb><rt>じぶん</rt></ruby>で<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう。
 
 <ruby><rb>今<rb><rt>いま</rt></ruby>の<ruby><rb>話<rb><rt>はなし</rt></ruby>では、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>の<ruby><rb>名前<rb><rt>なまえ</rt></ruby>を<ruby><rb>分<rb><rt>わ</rt></ruby>かりやすいように「みかん」とか「りんご」とか
-ひらがなの<ruby><rb>名前<rb><rt>なまえ</rt></ruby>を<ruby><rb>使<rb><rt>つか</rt></ruby>っていたけど、<ruby><rb>実際<rb><rt>じっさい</rt></ruby>のプログラミングのコードではひらがなを<ruby><rb>用<rb><rt>もち</rt></ruby>いることはできないんだ。
+ひらがなの<ruby><rb>名前<rb><rt>なまえ</rt></ruby>を<ruby><rb>使<rb><rt>つか</rt></ruby>っていたけど、<ruby><rb>実際<rb><rt>じっさい</rt></ruby>のプログラミングのコードでは
+ひらがなを<ruby><rb>用<rb><rt>もち</rt></ruby>いることはできないんだ。
 
 <ruby><rb>変数<rb><rt>へんすう</rt></ruby>は<ruby><rb>自分<rb><rt>じぶん</rt></ruby>で<ruby><rb>好<rb><rt>す</rt></ruby>きな<ruby><rb>名前<rb><rt>なまえ</rt></ruby>をつけることができるけど、
 aとかbとかではなく<ruby><rb>後<rb><rt>のち</rt></ruby>で<ruby><rb>見<rb><rt>み</rt></ruby>て<ruby><rb>分<rb><rt>わ</rt></ruby>かるようにすることが<ruby><rb>多<rb><rt>おお</rt></ruby>いんだ。
 
 だから、<ruby><rb>今回<rb><rt>こんかい</rt></ruby>は<ruby><rb>箱<rb><rt>はこ</rt></ruby>の<ruby><rb>名前<rb><rt>なまえ</rt></ruby>はmikan,orangeとするよ。
 
-<ruby><rb>次<rb><rt>つぎ</rt></ruby>にその<ruby><rb>箱<rb><rt>はこ</rt></ruby>の<ruby><rb>中<rb><rt>なか</rt></ruby>に<ruby><rb>数字<rb><rt>すうじ</rt></ruby>を<ruby><rb>入<rb><rt>い</rt></ruby>れよう。
-<ruby><rb>最初<rb><rt>さいしょ</rt></ruby>はみかんが３<ruby><rb>個<rb><rt>こ</rt></ruby>りんごが２<ruby><rb>個<rb><rt>こ</rt></ruby>だったから<ruby><rb>次<rb><rt>つぎ</rt></ruby>のようになるね。  
-mikan=3  
-ringo=2
+つまりさっきは「みかん」「りんご」とかにしていたのを
+「mikan」「ringo」に<ruby><rb>置き換<rb><rt>おきか</rt></ruby>えてみよう。
 
-<ruby><rb>次<rb><rt>つぎ</rt></ruby>は、もらったみかんが１<ruby><rb>個<rb><rt>こ</rt></ruby><ruby><rb>減<rb><rt>へ</rt></ruby>ったからそれについて<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう。
-<ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanにmikan-1の<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>入<rb><rt>い</rt></ruby>れるから、<ruby><rb>次<rb><rt>つぎ</rt></ruby>のようになるね。  
-mikan=mikan-1
-
-<ruby><rb>最後<rb><rt>さいご</rt></ruby>に、mikanとringoの<ruby><rb>足し算<rb><rt>たしざん</rt></ruby>の<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>表示<rb><rt>ひょうじ</rt></ruby>しよう。  
-print mikan+ringo
-
-printについては<ruby><rb>第<rb><rt>だい</rt></ruby>２<ruby><rb>章<rb><rt>しょう</rt></ruby>で<ruby><rb>話<rb><rt>はな</rt></ruby>したね。<ruby><rb>忘<rb><rt>わす</rt></ruby>れていたら２<ruby><rb>章<rb><rt>しょう</rt></ruby>を<ruby><rb>振り返<rb><rt>ふりかえ</rt></ruby>ってみよう。
-
-
-コードの<ruby><rb>書き方<rb><rt>かきかた</rt></ruby>はこんなながれになるよ。  
-つぎはみんなでここに<ruby><rb>全部<rb><rt>ぜんぶ</rt></ruby>まとまったコードを<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう！
-<textarea rows="4" cols="40">
+コードの<ruby><rb>書き方<rb><rt>かきかた</rt></ruby>はこんなながれになるよ。
+ここに<ruby><rb>全部<rb><rt>ぜんぶ</rt></ruby>まとまったコードを<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう！
+<textarea rows="4"cols="40">
 </textarea>
 
-4と<ruby><rb>表示<rb><rt>ひょうじ</rt></ruby>されていれば<ruby><rb>正<rb><rt>ただ</rt></ruby>しくプログラムが<ruby><rb>書<rb><rt>か</rt></ruby>けているよ。
+4と<ruby><rb>表示<rb><rt>ひょうじ</rt></ruby>されていれば<ruby><rb>正<rb><rt>ただ</rt></ruby>しくプログラムが<ruby><rb>書<rb><rt>か</rt></ruby>けているよ!
+
+#### <ruby><rb>回答<rb><rt>かいとう</rt></ruby>
+mikan=3  
+ringo=2  
+mikan=mikan-1  
+printmikan+ringo
+
 
 
 ところで、さっき<ruby><rb>実際<rb><rt>じっさい</rt></ruby>のプログラミングには<ruby><rb>変数<rb><rt>へんすう</rt></ruby>の<ruby><rb>名前<rb><rt>なまえ</rt></ruby>はひらがなが<ruby><rb>使<rb><rt>つか</rt></ruby>えないといったけど、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>の<ruby><rb>名前<rb><rt>なまえ</rt></ruby>の<ruby><rb>付け方<rb><rt>つけかた</rt></ruby>については<ruby><rb>以下<rb><rt>いか</rt></ruby>のようなルールがあるよ。<br/>
@@ -145,33 +141,34 @@ printについては<ruby><rb>第<rb><rt>だい</rt></ruby>２<ruby><rb>章<rb><
 
 
 
-## <ruby><rb>練習<rb><rt>れんしゅう</rt></ruby><ruby><rb>問題<rb><rt>もんだい</rt></ruby>：<ruby><rb>実際<rb><rt>じっさい</rt></ruby>に<ruby><rb>自分<rb><rt>じぶん</rt></ruby>で<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう!
-#### <ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
+##  <ruby><rb>練習<rb><rt>れんしゅう</rt></ruby><ruby><rb>問題<rb><rt>もんだい</rt></ruby>：<ruby><rb>実際<rb><rt>じっさい</rt></ruby>に<ruby><rb>自分<rb><rt>じぶん</rt></ruby>で<ruby><rb>書<rb><rt>か</rt></ruby>いてみよう!
+
+####  <ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
 <ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanに３、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>ringoに２を<ruby><rb>代入<rb><rt>だいにゅう</rt></ruby>して、mikanとringoを<ruby><rb>足し算<rb><rt>たしざん</rt></ruby>してその<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>出力<rb><rt>しゅつりょく</rt></ruby>してください。
-<textarea rows="4" cols="40">
+<textarearows="4"cols="40">
+</textarea>
+
+####  <ruby><rb>解答<rb><rt>かいとう</rt></ruby>:
+mikan=3  
+ringo=2  
+print mikan+ringo
+
+#### <ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
+<ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanに10、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>ringoに20を<ruby><rb>代入<rb><rt>だいにゅう</rt></ruby>して、mikanとringoを<ruby><rb>足し算<rb><rt>たしざん</rt></ruby>してその<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>出力<rb><rt>しゅつりょく</rt></ruby>してください。  
+<textarea rows="4"cols="40">
 </textarea>
 
 #### <ruby><rb>解答<rb><rt>かいとう</rt></ruby>:
-mikan=3
-ringo=2
-printmikan+ringo
-
-####<ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
-<ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanに10、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>ringoに20を<ruby><rb>代入<rb><rt>だいにゅう</rt></ruby>して、mikanとringoを<ruby><rb>足し算<rb><rt>たしざん</rt></ruby>してその<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>出力<rb><rt>しゅつりょく</rt></ruby>してください。
-<textarea rows="4" cols="40">
-</textarea>
-
-#### <ruby><rb>解答<rb><rt>かいとう</rt></ruby>:
-mikan=10
-ringo=20
-printmikan+ringo
+mikan=10  
+ringo=20  
+print mikan+ringo  
 
 #### <ruby><rb>問題<rb><rt>もんだい</rt></ruby>：
 <ruby><rb>変数<rb><rt>へんすう</rt></ruby>mikanに10、<ruby><rb>変数<rb><rt>へんすう</rt></ruby>ringoに20を<ruby><rb>代入<rb><rt>だいにゅう</rt></ruby>して、mikanとringoを<ruby><rb>かけ算<rb><rt>かけざん</rt></ruby>してその<ruby><rb>結果<rb><rt>けっか</rt></ruby>を<ruby><rb>出力<rb><rt>しゅつりょく</rt></ruby>してください。
-<textarea rows="4" cols="40">
+<textarea rows="4"cols="40">
 </textarea>
 
 #### <ruby><rb>解答<rb><rt>かいとう</rt></ruby>:
-mikan=10
-ringo=20
-printmikan*ringo
+mikan=10  
+ringo=20  
+print mikan*ringo  
