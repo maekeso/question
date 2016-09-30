@@ -41,7 +41,8 @@
 <ruby><rb>他<rb><rt>た</rt></ruby>の<ruby><rb>事<rb><rt>こと</rt></ruby>が<ruby><rb>出来<rb><rt>でき</rt></ruby>なくて<ruby><rb>不便<rb><rt>ふべん</rt></ruby>なので<ruby><rb>一旦<rb><rt>いったん</rt></ruby><ruby><rb>箱<rb><rt>はこ</rt></ruby>にしまうよね。<br/>
 プログラミングでも<ruby><rb>同<rb><rt>おな</rt></ruby>じように<ruby><rb>変数<rb><rt>へんすう</rt></ruby>にものをしまうんだ。
 
-<ruby><rb>現実<rb><rt>げんじつ</rt></ruby>には、みかんそのものを<ruby><rb>箱<rb><rt>はこ</rt></ruby>に<ruby><rb>入<rb><rt>い</rt></ruby>れているけどプログラミングは
+<ruby><rb>現実<rb><rt>げんじつ</rt></ruby>には、みかんそのものを<ruby><rb>箱<rb><rt>はこ</rt></ruby>に<ruby><rb>入<rb><rt>い</rt></ruby>れているけど  
+プログラミングは
 パソコン<ruby><rb>上<rb><rt>じょう</rt></ruby>で<ruby><rb>行<rb><rt>おこな</rt></ruby>うからみかんを<ruby><rb>箱<rb><rt>はこ</rt></ruby>に<ruby><rb>入<rb><rt>い</rt></ruby>れる<ruby><rb>事<rb><rt>こと</rt></ruby>はできないんだ。
 
 だから、「みかんはX<ruby><rb>個<rb><rt>こ</rt></ruby>あるよ」という”<ruby><rb>数字<rb><rt>すうじ</rt></ruby>”を<ruby><rb>変数<rb><rt>へんすう</rt></ruby>に<ruby><rb>入<rb><rt>い</rt></ruby>れるんだ。
