@@ -30,8 +30,8 @@
 
 ☆<ruby><rb>練習<rb><rt>れんしゅう</rt></ruby>してみよう！
 
-<ruby><rb>次<rb><rt>つぎ</rt></ruby>のうち「<ruby><rb>文字<rb><rt>もじ</rt></ruby>」であるものはどれか。<ruby><rb>記号<rb><rt>きごう</rt></ruby>で<ruby><rb>答<rb><rt>こた</rt></ruby>えなさい。
-㋐か　㋑<ruby><rb>Ｂ<rb><rt>びー</rt></ruby>　㋒ほ　㋓:eyeglasses:　㋔G　　　　　　　　　　　　　　　　　　
+<ruby><rb>次<rb><rt>つぎ</rt></ruby>のうち「<ruby><rb>文字<rb><rt>もじ</rt></ruby>」であるものはどれか。<ruby><rb>記号<rb><rt>きごう</rt></ruby>で<ruby><rb>答<rb><rt>こた</rt></ruby>えなさい.  
+㋐か　㋑<ruby><rb>Ｂ<rb><rt>びー</rt></ruby>　㋒ほ　㋓:eyeglasses:　㋔G  
 <ruby><rb>答<rb><rt>こた</rt></ruby>え：ア.イ.ウ.オ　
 
 #### 2.「<ruby><rb>列<rb><rt>れつ</rt></ruby>」とは？
@@ -47,9 +47,9 @@
 
 ☆<ruby><rb>練習<rb><rt>れんしゅう</rt></ruby>してみよう！
 
-<ruby><rb>次<rb><rt>つぎ</rt></ruby>のうち●が「<ruby><rb>列<rb><rt>れつ</rt></ruby>」になっていないものはどれか。<ruby><rb>記号<rb><rt>きごう</rt></ruby>で<ruby><rb>答<rb><rt>こた</rt></ruby>えなさい。
+<ruby><rb>次<rb><rt>つぎ</rt></ruby>のうち●が「<ruby><rb>列<rb><rt>れつ</rt></ruby>」になっていないものはどれか。<ruby><rb>記号<rb><rt>きごう</rt></ruby>で<ruby><rb>答<rb><rt>こた</rt></ruby>えなさい。  
 ㋐<ruby><rb>画像<rb><rt>がぞう</rt></ruby>（<ruby><rb>練習<rb><rt>れんしゅう</rt></ruby>2‐ア）
-㋑<ruby><rb>画像<rb><rt>がぞう</rt></ruby>（<ruby><rb>練習<rb><rt>れんしゅう</rt></ruby>2‐イ）
+㋑<ruby><rb>画像<rb><rt>がぞう</rt></ruby>（<ruby><rb>練習<rb><rt>れんしゅう</rt></ruby>2‐イ )
 <ruby><rb>答<rb><rt>こた</rt></ruby>え：イ
 
 #### 3.<ruby><rb>文字<rb><rt>もじ</rt></ruby><ruby><rb>列<rb><rt>れつ</rt></ruby>とは？
