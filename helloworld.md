@@ -1,7 +1,7 @@
 # <ruby><rb>第<rb><rt>だい</rt></ruby><ruby><rb>２<rb><rt>に</rt></ruby><ruby><rb>章<rb><rt>しょう</rt></ruby>　HelloWorld!!
 この<ruby><rb>章<rb><rt>しょう</rt></ruby>で<ruby><rb>学<rb><rt>まな</rt></ruby>べることは…
 
-・「<ruby><rb>文字<rb><rt>もじ</rt></ruby><ruby><rb>列<rb><rt>れつ</rt></ruby>」を<ruby><rb>学<rb><rt>まな</rt></ruby>ぶことができます。  
+・「<ruby><rb>文字<rb><rt>もじ</rt></ruby><ruby><rb>列<rb><rt>れつ</rt></ruby>」を<ruby><rb>学</rb><rt>まな</rt></ruby>ぶことができます。  
 ・「Print<ruby><rb>文<rb><rt>ぶん</rt></ruby>」を<ruby><rb>学<  rb><rt>まな</rt></ruby>べます。  
 ・Print<ruby><rb>文<rb><rt>ぶん</rt></ruby>を<ruby><rb>用<rb><rt>もち</rt></ruby>いて<ruby><rb>画面<rb><rt>がめん</rt></ruby>に<ruby><rb>文字<rb><rt>もじ</rt></ruby><ruby><rb>列<rb><rt>れつ</rt></ruby>を<ruby><rb>表示<rb><rt>ひょうじ</rt></ruby>できるようになります。
 
